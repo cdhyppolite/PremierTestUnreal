@@ -3,4 +3,6 @@
 
 #### Ce projet utilise le StarterContent et le ThirdPerson comme template
 
-#### [Playlist utilisée](https://youtube.com/playlist?list=PLKs9b0VUdRdwxigTeOV1-4JkunLgXivax)
+#### Playlists utilisées
+#### [Découverte](https://youtube.com/playlist?list=PLKs9b0VUdRdwxigTeOV1-4JkunLgXivax)
+#### [Gestion des personnages](https://youtube.com/playlist?list=PLKs9b0VUdRdw3VdVHItXW4hPF5G35EznB)
