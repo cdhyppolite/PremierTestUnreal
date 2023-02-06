@@ -76,4 +76,4 @@ DerivedDataCache/*
 # Moi
 Content/StarterContent/*
 Content/Characters/*
-!Saved/SaveGames/*
+!Saved/SaveGames/
